@@ -5,6 +5,7 @@
 ### Date v_1.2: 6th Apr 2013
 ### Date v_1.3: 29th May 2013
 
+### Usage: BMIQ(beta.v,design.v,nL=3,doH=TRUE,nfit=5000,th1.v=c(0.2,0.75),th2.v=NULL,niter=5,tol=0.001,plots=TRUE,sampleID=1)
 ### SUMMARY
 ### BMIQ is an intra-sample normalisation procedure, adjusting for the bias in type-2 probe values, using a 3-step procedure published in Teschendorff AE et al "A Beta-Mixture Quantile Normalisation method for correcting probe design bias in Illumina Infinium 450k DNA methylation data", Bioinformatics 2012 Nov 21.
 

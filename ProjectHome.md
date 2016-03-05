@@ -1,0 +1,1 @@
+Beta Mixture Quantile Method for normalisation of Illumina Infinium 450k data
